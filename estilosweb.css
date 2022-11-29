@@ -1,0 +1,238 @@
+body{margin: 0px;}
+
+#seccion01{width: 100%;
+    height: 700px;
+    background-image:url(img/homefond.jpg);
+    z-index: 0;
+    background-size: 100% 750px;
+    background-repeat: no-repeat;
+    color: white;}
+
+
+
+#titulo{ font-family: retrokia caps; 
+    width: 600px;
+    margin-left: 80px;
+    margin-top: 150px; font-size: 45px;}
+
+div p{width: 450px;
+    margin-left: 80px;
+    margin-top: 0px;
+    font-family: helvetica;}
+
+
+header{ width: 100%;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;}
+
+header img {float: left;
+    margin-left: 80px;
+    margin-right: 390px;
+    margin-top: 15px;}
+
+header nav {float: left;
+    padding-top: 35px;}
+
+header nav a{color: white;
+    padding: 10px 10px 10px 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: retrokia caps; }
+
+header nav a:hover {color: #3f0c02; 
+    background-color: white;
+    border-radius: 35px;}
+
+
+
+#seccion02{width: 100%;
+    height: 700px;
+    background-image: url(img/cafecongrano.png);
+    background-size:100% 700px;
+    background-repeat: no-repeat;}
+
+#ace{color: white;
+    font-family: retrokia caps; 
+    float: left;
+    text-align: right; 
+    margin-left: 950px;
+    margin-top: 190px;font-size: 50px;}
+
+#parrafo{color: white;
+    float: right;
+    margin-top: 40px;
+    margin-right: 82px ;
+    height: 70px;
+    width:450px;
+    text-align: right;
+    font-family: helvetica;}
+
+#seccion03{width: 100%;
+    height: 700px;
+    background-image: url(img/tiposdegrano.png);
+    background-size: 100% 700px;
+    background-repeat: no-repeat;
+justify-content: center;} 
+
+#tiposdegranos{color: #3f0c02;
+    font-family: retrokia caps; 
+    text-align: center;
+    margin-top: 70px;
+    font-size: 50px;}
+
+div h5{font-family: retrokia caps;
+    color: #3f0c02; 
+    text-align: center; 
+    word-spacing: 700px;
+    margin-top: 408px; 
+    font-size: 20px;
+    left: 50%; right: 50%;}
+
+#medio{font-family: retrokia caps;
+    color: #3f0c02; 
+    text-align: center; 
+    margin-top: -68px; font-size: 20px}
+
+#rubiop{font-family: helvetica;                       
+    color: #3f0c02;
+    text-align: justify; 
+    width:250px; 
+    margin-left: 150px;
+    margin-top: 50px;}
+
+#mediop{font-family: helvetica;
+    color: #3f0c02;
+    text-align: justify; 
+    width:250px; 
+    margin-left: 550px;
+    margin-top: -70px;}
+
+#oscurop{font-family: helvetica;                       
+    color: #3f0c02;
+    text-align: justify; 
+    width:250px; 
+    margin-left: 950px;
+    margin-top: -70px;}
+
+#seccion04{width: 100%;
+    height: 700px;
+    background-image: url(img/top3.png);
+    background-size: 100% 600px; 
+    background-repeat: no-repeat;;}
+
+#titulo3{color: #3f0c02;
+    font-family: retrokia caps; 
+    text-align: center;
+    padding: 120px; font-size: 50px; }    
+
+#capuccino{color: #3f0c02;
+    font-family: retrokia caps;
+    margin-left: 230px; 
+    margin-top: 170px; }
+
+#latte{color: #3f0c02;
+    font-family: retrokia caps; 
+    margin-left: 560px; 
+    margin-top: -63px;}
+
+#americano{color: #3f0c02;
+    font-family: retrokia caps;
+    margin-top: -63px; 
+    margin-left: 980px; }
+
+    
+#seccion05{width: 100%;
+    height: 700px;
+    background-image: url(img/topfrios.png);
+    background-size:  100% 600px;
+    background-repeat: no-repeat;}
+
+#Sparkling{color: #3f0c02;
+    font-family: retrokia caps; 
+    width: 300px;
+    text-align: center; 
+    margin-left: 30px; 
+    padding-top: 450px; 
+    font-size: 20px;}
+
+#Peppermint{color: #3f0c02;
+    font-family: retrokia caps;
+     width: 250px;
+     text-align: center;
+     margin-left: 390px;
+     font-size: 20px; margin-top: -90px;}
+
+#Vietnamese{color: #3f0c02;
+    font-family: retrokia caps;
+    width: 250px;
+    text-align: center;
+    font-size: 20px; 
+    margin-left: 700px; 
+    margin-top: -90px;}
+
+#Caramel{color: #3f0c02;
+    font-family: retrokia caps;
+    width: 250px;
+    text-align: center;
+    font-size: 20px; 
+    margin-left: 1040px; 
+    margin-top: -90px;}
+
+
+#seccion06{width: 100%;
+    height: 700px;
+    background-image: url(img/Footer.png);
+    background-size: 100% 700px;
+    background-repeat: no-repeat;}
+
+#footer{color: white; 
+    word-spacing: 80px; 
+    font-family: retrokia caps;
+     text-align: left;
+     margin-left: 300px;
+     width: 500px;
+    font-size: 15px; 
+    padding-top: 610px;}
+
+#redes{color: white; 
+    font-family: retrokia caps;
+    margin-left: 800px;
+    font-size: 15px; 
+    margin-top:-62px;}
+
+#contactos{color: white; 
+    word-spacing: 35px; 
+    font-family: helvetica;
+     text-align: left;
+     margin-left: 260px;
+     width: 500px;
+    font-size: 15px; 
+  margin-top: -20px;}
+
+#mall{color: white;  
+    font-family: helvetica;
+     text-align: left;
+     margin-left: 605px;
+     width: 500px;
+    font-size: 15px; 
+  margin-top: -52px;}
+
+#imgfooter{margin-top: -160px; 
+    word-spacing: 126px; 
+    margin-left: 300px;}
+
+#imagfooter2{margin-top: -45px; 
+    word-spacing: 160px; 
+    margin-left: 650px;}
+
+#instagram{margin-left: 800px;margin-top: 70px;}
+#instagram :hover{filter: opacity(.4);}
+
+#twitter{margin-left: 864px;margin-top: -23px;}
+#twitter :hover{filter: opacity(.4);}
+
+#facebook{margin-left: 935px ;margin-top: -26px;}
+#facebook :hover{filter: opacity(.4);}
+
