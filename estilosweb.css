@@ -1,5 +1,7 @@
 body{margin: 0px;}
 
+html { scroll-behavior: smooth}
+
 #seccion01{width: 100%;
     height: 700px;
     background-image:url(img/homefond.jpg);
